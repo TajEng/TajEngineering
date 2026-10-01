@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 110" role="img" aria-labelledby="t d">
+<title id="t">TAJ Engineering and Project Services</title><desc id="d">TAJ Engineering and Project Services, a division of TAJ Transformers Ltd.</desc>
+<g transform="translate(4 5)">
+  <path d="M14 83L52 48l24 20 28-28v48H14z" fill="#0a2745"/>
+  <path d="M55 47V12h15v42zM75 49V25h14v31zM93 44V7h14v56z" fill="#d19a20"/>
+  <path d="M17 86h92" stroke="#0a2745" stroke-width="6" stroke-linecap="round"/>
+</g>
+<text x="132" y="47" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="800" fill="#0a2745">TAJ</text>
+<text x="132" y="72" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800" fill="#0a2745">ENGINEERING &amp; PROJECT SERVICES</text>
+<text x="132" y="96" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="1.1" fill="#b57c08">A DIVISION OF TAJ TRANSFORMERS LTD.</text>
+</svg>
