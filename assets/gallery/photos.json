@@ -1,0 +1,37 @@
+[
+  {
+    "file": "readiness-blueprint-review.webp",
+    "title": "Pre-construction drawing review",
+    "category": "readiness",
+    "date": "2026-05",
+    "caption": "Approvals and drawings checked against the proposed layout before construction begins."
+  },
+  {
+    "file": "construction-monitoring-site-walk.webp",
+    "title": "Structural-stage site walk",
+    "category": "monitoring",
+    "date": "2026-08",
+    "caption": "A scheduled visit records visible progress and workmanship while the structure is still open to view."
+  },
+  {
+    "file": "materials-rebar-measurement.webp",
+    "title": "Reinforcement spacing check",
+    "category": "materials",
+    "date": "2026-06",
+    "caption": "Rebar spacing and cover measured against specification before the pour covers it from view."
+  },
+  {
+    "file": "condition-crack-inspection.webp",
+    "title": "Wall crack width assessment",
+    "category": "condition",
+    "date": "2026-07",
+    "caption": "A visible crack measured with a gauge to record its width and track movement over time."
+  },
+  {
+    "file": "handover-closeout-checklist.webp",
+    "title": "Snag list walkthrough",
+    "category": "closeout",
+    "date": "2026-09",
+    "caption": "Outstanding items checked off room by room ahead of final handover."
+  }
+]
